@@ -21,5 +21,4 @@ author:
 # Custom vars
 version:             1.0.0
 
-plugins-dir:
-- jekyll-paginate
+gems: [jekyll-paginate]
